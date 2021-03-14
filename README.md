@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+
 
 - 🔭 I’m currently working on web freelancer
 - 🌱 I’m currently learning data mining
